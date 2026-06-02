@@ -20,3 +20,8 @@ Copies files or directories.
 
 ## 7. mv
 Moves or renames files or directories.
+
+## 8. cat
+Displays the contents of a file.
+
+
