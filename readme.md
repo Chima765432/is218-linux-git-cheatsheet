@@ -9,4 +9,5 @@ Prints the current working directory path.
 ## 3. cd
 Changes your current directory.
 
-
+## 4. mkdir
+Creates a new directory.
