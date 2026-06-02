@@ -14,3 +14,6 @@ Creates a new directory.
 
 ## 5. rm
 Removes files or directories.
+
+## 6. cp
+Copies files or directories.
