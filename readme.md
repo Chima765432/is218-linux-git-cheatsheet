@@ -30,4 +30,7 @@ Prints text to the terminal.
 ## 10. clear
 Clears the terminal screen.
 
+## 11. git status
+Shows the current state of your working directory and staging area.
+
 
