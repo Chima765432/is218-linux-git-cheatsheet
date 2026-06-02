@@ -42,4 +42,5 @@ Shows changes between commits and the working tree.
 ## 14. git clone
 Downloads a repository from the internet to your local machine.
 
-
+## 15. git pull
+Fetches and merges changes from the remote repository to your local directory.
