@@ -27,4 +27,7 @@ Displays the contents of a file.
 ## 9. echo
 Prints text to the terminal.
 
+## 10. clear
+Clears the terminal screen.
+
 
