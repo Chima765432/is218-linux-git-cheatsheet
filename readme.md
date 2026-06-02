@@ -5,3 +5,8 @@ The ls command lists the files and folders in your current directory.
 
 ## 2. pwd
 Prints the current working directory path.
+
+## 3. cd
+Changes your current directory.
+
+
