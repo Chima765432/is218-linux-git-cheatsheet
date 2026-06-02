@@ -39,4 +39,7 @@ Displays the commit history.
 ## 13. git diff
 Shows changes between commits and the working tree.
 
+## 14. git clone
+Downloads a repository from the internet to your local machine.
+
 
