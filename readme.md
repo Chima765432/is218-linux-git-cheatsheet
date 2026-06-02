@@ -11,3 +11,6 @@ Changes your current directory.
 
 ## 4. mkdir
 Creates a new directory.
+
+## 5. rm
+Removes files or directories.
