@@ -24,4 +24,7 @@ Moves or renames files or directories.
 ## 8. cat
 Displays the contents of a file.
 
+## 9. echo
+Prints text to the terminal.
+
 
