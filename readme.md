@@ -33,4 +33,7 @@ Clears the terminal screen.
 ## 11. git status
 Shows the current state of your working directory and staging area.
 
+## 12. git log
+Displays the commit history.
+
 
