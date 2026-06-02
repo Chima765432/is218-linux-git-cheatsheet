@@ -17,3 +17,6 @@ Removes files or directories.
 
 ## 6. cp
 Copies files or directories.
+
+## 7. mv
+Moves or renames files or directories.
