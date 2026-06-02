@@ -36,4 +36,7 @@ Shows the current state of your working directory and staging area.
 ## 12. git log
 Displays the commit history.
 
+## 13. git diff
+Shows changes between commits and the working tree.
+
 
